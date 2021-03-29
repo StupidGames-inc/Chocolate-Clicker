@@ -1,3 +1,4 @@
 Let's make a game!
     name: Chocolate Clicker
     by: KingDiCid
+    desc: testing
